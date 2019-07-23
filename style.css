@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Heebo&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Heebo|Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cabin&display=swap');
+body {
+    
+  font-family: 'Cabin', sans-serif;
+  margin: 2em;
+  background-image: url("lightblue.jpg");
+}
+
+h1 {
+  font-family: 'Heebo', sans-serif;
+  color: #373fff;
+}
+
+table, th, td {
+  /*font-family: 'Josefin Sans', sans-serif;*/
+  border: 3px dotted hsl(0, 100%, 75%);
+  border-collapse: collapse;
+}
+
+h3 {
+  color: #2f5350;
+}
+
+/*#turtleimg{*/
+/*  border-radius: 50%;*/
+/*  border: 1px solid #88A0A8;*/
+/*  max-width: 100%;*/
+/*  height: auto;*/
+/*  padding: 5px;*/
+/*}*/
+
+
+
